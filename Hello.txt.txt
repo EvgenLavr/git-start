@@ -1,1 +1,2 @@
-rpint("Hello!")
+prpint("Hello!")
+print("Start!")
